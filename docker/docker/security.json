@@ -3,58 +3,82 @@
     {
       "id": "CVE-2020-10665",
       "severity": 6.7,
-      "versions": [
-        "(,2.2.0.4)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,2.2.0.4)"
+        ]
+      }
     },
     {
       "id": "CVE-2021-37841",
       "severity": 7.8,
-      "versions": [
-        "(,3.6.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,3.6.0)"
+        ]
+      }
     },
     {
       "id": "CVE-2022-31647",
       "severity": 7.1,
-      "versions": [
-        "(,4.6.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,4.6.0)"
+        ]
+      }
     },
     {
       "id": "CVE-2022-34292",
       "severity": 7.1,
-      "versions": [
-        "(,4.6.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,4.6.0)"
+        ]
+      }
     },
     {
       "id": "CVE-2022-37326",
       "severity": 7.8,
-      "versions": [
-        "(,4.6.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,4.6.0)"
+        ]
+      }
     },
     {
       "id": "CVE-2022-38730",
       "severity": 6.3,
-      "versions": [
-        "(,4.6.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,4.6.0)"
+        ]
+      }
     },
     {
       "id": "CVE-2023-1802",
       "severity": 7.5,
-      "versions": [
-        "[4.17.0,4.17.1]"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "[4.17.0,4.17.1]"
+        ]
+      }
     },
     {
       "id": "CVE-2024-5652",
       "severity": 5.5,
-      "versions": [
-        "(,4.31.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,4.31.0)"
+        ]
+      }
     },
     {
       "id": "CVE-2024-6222",
@@ -80,16 +104,28 @@
     {
       "id": "CVE-2025-3224",
       "severity": 7.8,
-      "versions": [
-        "(,4.41.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "windows": [
+          "(,4.41.0)"
+        ]
+      }
     },
     {
       "id": "CVE-2026-2664",
       "severity": 7.8,
-      "versions": [
-        "(,4.62.0)"
-      ]
+      "versions": [],
+      "conditions": {
+        "linux": [
+          "(,4.62.0)"
+        ],
+        "mac": [
+          "(,4.62.0)"
+        ],
+        "windows": [
+          "(,4.62.0)"
+        ]
+      }
     }
   ]
 }
